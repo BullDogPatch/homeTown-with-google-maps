@@ -10,6 +10,7 @@ body {
   flex-direction: column;
   text-align: center;
   font-family: "Anton", sans-serif;
+  /* background: lightgray; */
 }
 
 #map {
